@@ -10,6 +10,8 @@ Run as:
 `./PhononSED.x < PhononSED.inp`
 `python fitter.py`
 
+Initial Developer: Daniel C. Elton
+
 references:
 * J. M. Larkin, Ph.D. thesis, Carnegie Mellon University, 2013
 * Larkin, et al., *Phys. Rev. B* **81**, 081411(R) (2010)
